@@ -6,6 +6,9 @@ return a+b;
 double log(double a){
 return log(a) ;
 }
+double division(double a, double b){
+return a/b;
+}
 int main(){
 double x = 3.0;
 double y = 3.5;
