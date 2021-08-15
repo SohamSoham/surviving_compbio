@@ -6,7 +6,9 @@ return a+b;
 double subtract(double x, double y){
 return x-y ;
 }
-
+double multiply (double x, double y){
+return x*y;
+}
 int main(){
 double x = 3.0;
 double y = 3.5;
