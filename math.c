@@ -9,6 +9,9 @@ return x-y ;
 double multiply (double x, double y){
 return x*y;
 }
+double  exp(double x){
+return exp(x);
+}
 int main(){
 double x = 3.0;
 double y = 3.5;
