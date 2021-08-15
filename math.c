@@ -3,7 +3,9 @@
 double add(double a, double b){
 return a+b;
 }
-
+double log(double a){
+return log(a) ;
+}
 int main(){
 double x = 3.0;
 double y = 3.5;
